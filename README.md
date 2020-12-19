@@ -1,4 +1,4 @@
-# social-network
+# Social-Network
 
 # Description
 This social network API app is a back-end Node.js application that was created using a NoSQL database. The app does not have a front-end so the user will need to run npm install and test out the routes using Insomnia Core. Users are created, can be updated and deleted. All users have the ability to add thoughts, friends and reactions. The key technologies used are listed below.
